@@ -20,7 +20,6 @@
 </ol>
 <br />
 
-
 <h2>How to securely transfer files on Compute Grid</h2>
 <p>There maybe a time you will need to transfer files from your private instance to your personal machine, or vice versa. To do so, follow the below directions: </p>
 
