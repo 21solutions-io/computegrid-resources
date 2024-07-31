@@ -3,10 +3,10 @@
 <p>Compute Grid is a peer-to-peer GPU Resource Marketplace offering inexpensive and fully virtualized GPU instances.</p>
 <p>We also pride ourselves in being easy to use and beginner friendly. One of the ways we do that is by offering public resources, such as this one.</p>
 <p>Here you will find information on how to securely move files to and from your instance, how to upload custom models to ComfyUI and more.</p>
-<p>For more resources and tutorials visit our YouTube channel: <a target="_blank">https://www.youtube.com/@compute-grid</a>
+<p>For more resources and tutorials visit our <a target="_blank" href="https://www.youtube.com/@compute-grid">YouTube channel</a>.
 <br />
 
-<h2>How to upload custom SDXL Models</h2>
+<h2>How to upload custom SDXL Models</h2> 
 <p> To install custom SDXL models or models not found in the manager or our shared folder, follow the below directions: </p>
 
 <ol>
@@ -19,7 +19,7 @@
     <li> Once installed you may need to change the model name to one that is useable, using the <b>"mv <i>Old_file_name</i> <i>New_file_name</i>"</b>
 </ol>
 <br />
-    
+
 
 <h2>How to securely transfer files on Compute Grid</h2>
 <p>There maybe a time you will need to transfer files from your private instance to your personal machine, or vice versa. To do so, follow the below directions: </p>
